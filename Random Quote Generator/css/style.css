@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body {
+    background: url("../assets/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+#quotesection {
+    background: white;
+    width: 50%;
+    margin: 220px auto;
+    font-family: 'Lato', sans-serif;
+    padding: 25px;
+    box-shadow: 15px 15px 5px 5px;
+}
+
+#quotesection #buttons {
+    text-align: right;
+}
+
+hr {
+    opacity: 0.5;
+}
+
+#by {
+    text-align: right;
+    font-weight: bold;  
+}
+
+@media only screen and (max-width: 1300px) {
+    #quotesection {
+        width: 80%;
+        margin: 150px auto;
+    }
+}
