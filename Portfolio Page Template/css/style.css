@@ -1,0 +1,26 @@
+#cover {
+  width: 100%;
+  max-height: 450px;
+}
+
+#about {
+  font-size: 25px;
+  padding: 20px;
+}
+
+#about li {
+  padding-bottom: 12px;
+}
+
+.col-md-4 {
+  margin-bottom: 25px;
+}
+
+#getintouch {
+  color: #fff;
+  text-align: center;
+}
+
+#getintouch .fa {
+  color: #fff;
+}
