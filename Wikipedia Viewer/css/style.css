@@ -1,0 +1,20 @@
+.container {
+    text-align: center;
+}
+
+#wikipedia-logo {
+    height: 200px;
+    width: 220px;
+}
+
+#search-input {
+    width: 50%;
+}
+
+#results {
+    text-align: left;
+}
+
+h3 {
+    margin: 0;
+}
