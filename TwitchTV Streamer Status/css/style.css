@@ -1,0 +1,21 @@
+.container {
+    background: #262A2D;
+    color: #fff;
+    text-align: center;
+}
+
+.status-links {
+    background: #262A2D;
+    color: #fff;
+    padding: 5px 5px;
+}
+
+.status-links:hover {
+    text-decoration: none;
+}
+
+img {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
