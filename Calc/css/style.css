@@ -1,0 +1,54 @@
+body {
+	background: lightgray;
+}
+
+#container {
+	text-align: center;
+	margin: 60px auto;
+	width: 300px;
+	background: azure;
+	border: 2px solid black;
+}
+
+#display {
+	text-align: right;
+	height: 100px;
+	border: 2px solid gray;
+	background: white;
+	font-size: 30px;
+}
+
+#buttons {
+	display: inline-block;
+	padding: 30px 0;
+}
+
+button {
+	background: white; 
+	border: 1px solid #cbcbcb;
+	border-radius: 5%;
+    height: 50px;
+	width: 50px;
+	outline-style: none;
+}
+
+button:hover {
+	background: lightgray;
+	text-decoration: none;
+}
+
+#clear, #zero {
+	width: 100px;
+}
+
+#equal {
+	position: absolute;
+	margin-left: 5px;
+	margin-top: -70px;
+	height: 120px;
+	outline-style: none;
+}
+
+.float-left {
+	float: left;
+}
