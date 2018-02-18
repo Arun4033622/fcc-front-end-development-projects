@@ -1,0 +1,16 @@
+html {
+    height: 100%;
+}
+
+body {
+    background: url('https://www.jpl.nasa.gov/assets/images/content/tmp/home/missions_bg_image.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    padding-top: 25px;
+}
+
+#timer {
+    font-size: 20vw;
+}
